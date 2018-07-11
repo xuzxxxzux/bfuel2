@@ -95,7 +95,7 @@ table {
 .social_icons i:hover {color: #ff003d;}
 
 .header-img-wrapper {}
-.header-img-overlay {text-transform: uppercase; background-color: rgba(255, 255, 255, 1); padding: 25px 20px; position: absolute; right: 125px; top: 14vw; z-index: 90;}
+.header-img-overlay {text-transform: uppercase; background-color: rgba(255, 255, 255, 1); padding: 25px 20px; position: absolute; right: 30px; top: 13vw; z-index: 90;}
 .header-img-overlay h3 {color: #ff003d; font-weight: bold; text-transform: uppercase; font-size: 20px;}
 .header-img-overlay p {}
 
