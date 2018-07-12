@@ -87,8 +87,8 @@ table {
 
 .navigation a:hover {color: #ff003d; margin-left: 5px;}
 
-.social_icons {position: absolute; bottom: 0; display: flex; display: -ms-flex; display: -moz-flex;}
-.social_icons li {flex: 1 1 auto; -ms-flex: 1 1 auto; -moz-flex: 1 1 auto; margin-right: 30px;}
+.social_icons {position: absolute; border-top: 2px solid black; bottom: 0; display: flex; display: -ms-flex; display: -moz-flex; padding-top: 13px; width: 100%; text-align: center;}
+.social_icons li {flex: 1 1 auto; -ms-flex: 1 1 auto; -moz-flex: 1 1 auto; margin: 0 20px;}
 .social_icons a {}
 .social_icons i {color: black; font-size: 22px; transition: 175ms ease-in-out;}
 
